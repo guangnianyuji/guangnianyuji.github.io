@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yifei Sun, an undergraduate student from the College of Computer Science and Technology, Software Engineering at Tongji University, class of 2021. I will pursue a master's degree in the Key Software Program at the School of Software and Microelectronics, Peking University, starting in 2025. From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Huazhe Xu</a> at the <a href="https://sqz.ac.cn/" target="_blank">Shanghai Qi Zhi Institute</a>. Since September 2024, I have been working as a computer vision algorithm intern at <a href="https://www.xiaohongshu.com/protocols/about" target="_blank">Xiaohongshu</a>.
+I am Yifei Sun, an undergraduate student from the College of Computer Science and Technology, Software Engineering at Tongji University, class of 2021(同济大学，计算机科学与技术学院，软件工程专业，2021级本科生). 
 
+
+I will pursue a master's degree in the Key Software Program at the School of Software and Microelectronics, Peking University, starting in 2025(北京大学，软件与微电子学院，关键软件方向，2025级硕士生). 
+
+
+From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Huazhe Xu</a> at the <a href="https://sqz.ac.cn/" target="_blank">Shanghai Qi Zhi Institute</a>. Since September 2024, I have been working as a computer vision algorithm intern at <a href="https://www.xiaohongshu.com/protocols/about" target="_blank">Xiaohongshu</a>.
 
 
 
@@ -27,15 +32,30 @@ I am Yifei Sun, an undergraduate student from the College of Computer Science an
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+denotes equal contributions; † indicates equal advising.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/mcr_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robots Pre-Train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets](https://arxiv.org/pdf/2410.22325)
+
+[Guangqi Jiang\*](https://luccachiang.github.io/), **Yifei Sun**\*, [Tao Huang\*](https://taohuang13.github.io/),[Huanyu Li](https://github.com/xierhill),[Yongyuan Liang<sup>†</sup>](https://cheryyunl.github.io/),[Huazhe Xu<sup>†</sup>](http://hxu.rocks/)
+
+[**Website**](https://robots-pretrain-robots.github.io/)/[**Arxiv**](https://arxiv.org/abs/2410.22325)/[**Code**](https://github.com/luccachiang/robots-pretrain-robots)<strong><span class='show_paper_citations' data='NWmF6gsAAAAJ:u5HHmVD_uO8C'></span></strong>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/sam-g.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalizable Visual Reinforcement Learning with Segment Anything Model](https://yanjieze.com/SAM-G/paper.pdf)
 
-Ziyu Wang, Yanjie Ze, **Yifei Sun**, Zhecheng Yuan, Huazhe Xu
+[Ziyu Wang\*](https://wadiuvatzy.github.io/), [Yanjie Ze\*](https://yanjieze.com/), **Yifei Sun**, [Zhecheng Yuan](https://gemcollector.github.io/), [Huazhe Xu<sup>†</sup>](http://hxu.rocks/)
 
-[**Project**](https://yanjieze.com/SAM-G/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Website**](https://yanjieze.com/SAM-G/)/[**Arxiv**](https://arxiv.org/abs/2312.17116)/[**Code**](https://github.com/wadiuvatzy/SAM-G)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>111</span></strong> -->
 
 </div>
 </div>
@@ -43,11 +63,12 @@ Ziyu Wang, Yanjie Ze, **Yifei Sun**, Zhecheng Yuan, Huazhe Xu
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.05* National First Prize in the 2024 China Robot Competition and Robocup China Open.
-- *2023.12* First-class Tongji University Outstanding Student Scholarship (Huawei Scholarship).
-- *2023.10.21* National Silver Medal in the 2023 Chinese Collegiate Programming Contest.
-- *2022.11.27* National Silver Medal in the 2022 Chinese Collegiate Programming Contest.
-- *2022.10* Awarded the 2021-2022 National Scholarship for Undergraduate Students.
+- *2024.11.03* National Silver Medal in the 2024 Chinese Collegiate Programming Contest(国家级银奖，2024年中国大学生程序设计竞赛).
+- *2024.05* National First Prize in the 2024 China Robot Competition and Robocup China Open(国家级一等奖，2024中国机器人大赛暨RoboCup机器人世界杯中国赛).
+- *2023.12* First-class Tongji University Outstanding Student Scholarship (Huawei Scholarship)(一等奖学金(华为奖学金)，2022-2023年同济大学综合优秀学生).
+- *2023.10.21* National Silver Medal in the 2023 Chinese Collegiate Programming Contest(国家级银奖，2023年中国大学生程序设计竞赛).
+- *2022.11.27* National Silver Medal in the 2022 Chinese Collegiate Programming Contest(国家级银奖，2022年中国大学生程序设计竞赛).
+- *2022.10* Awarded the 2021-2022 National Scholarship for Undergraduate Students(本科生国家奖学金，2021-2022学年).
 
 # 📖 Educations
 - *2021.09 - Now*, An undergraduate student from the College of Computer Science and Technology, Software Engineering at Tongji University.
@@ -60,3 +81,4 @@ Ziyu Wang, Yanjie Ze, **Yifei Sun**, Zhecheng Yuan, Huazhe Xu
 # 💻 Internships
 - *2024.09 - Now*, [Xiaohongshu](https://www.xiaohongshu.com/protocols/about),Shanghai, China.
 - *2023.08 - 2024.08*, [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), Shanghai, China.
+

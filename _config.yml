@@ -9,7 +9,7 @@
 title                    : "Yifei Sun's Homepage"
 description              : ""
 repository               : ""
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yifei Sun"
+  name             : "孙亦菲 Yifei Sun"
   avatar           : "images/avatar.jpg"
   bio              : "Incoming Master Student in Electronic and Information Engineering at Peking University"
   location         : "Shanghai, China"
@@ -161,3 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# 示例配置
+# host: 127.0.0.1
+# port: 4000
