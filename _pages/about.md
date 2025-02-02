@@ -28,13 +28,14 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 
 
 # 🔥 News
+- *2025.01.23*: &nbspOne paper on robotic representation from large-scale robot data <a href="https://robots-pretrain-robots.github.io/" target="_blank">MCR</a> was accepted to ICLR 2025.
 - *2024.10*: &nbsp;🎉🎉 I am still alive!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-denotes equal contributions; † indicates equal advising.
+\* denotes equal contributions; † indicates equal advising.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/mcr_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mcr_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robots Pre-Train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Datasets](https://arxiv.org/pdf/2410.22325)
