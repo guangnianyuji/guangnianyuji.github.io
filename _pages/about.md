@@ -28,7 +28,7 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 
 
 # 🔥 News
-- *2025.01.23*: &nbspOne paper on robotic representation from large-scale robot data <a href="https://robots-pretrain-robots.github.io/" target="_blank">MCR</a> was accepted to ICLR 2025.
+- *2025.01.23*: &nbsp;One paper on robotic representation from large-scale robot data <a href="https://robots-pretrain-robots.github.io/" target="_blank">MCR</a> was accepted to ICLR 2025.
 - *2024.10*: &nbsp;🎉🎉 I am still alive!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
