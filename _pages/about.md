@@ -72,7 +72,7 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 - *2022.10* Awarded the 2021-2022 National Scholarship for Undergraduate Students(本科生国家奖学金，2021-2022学年).
 
 # 📖 Educations
-- *2021.09 - Now*, An undergraduate student from the College of Computer Science and Technology, Software Engineering at Tongji University.
+- *2021.09 - 2025.06*, An undergraduate student from the College of Computer Science and Technology, Software Engineering at Tongji University.
 
 
 <!-- # 💬 Invited Talks
@@ -80,6 +80,6 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.09 - Now*, [Xiaohongshu](https://www.xiaohongshu.com/protocols/about),Shanghai, China.
+- *2024.09 - 2025.04*, [Xiaohongshu](https://www.xiaohongshu.com/protocols/about),Shanghai, China.
 - *2023.08 - 2024.08*, [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), Shanghai, China.
 
