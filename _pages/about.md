@@ -64,6 +64,8 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.05* Outstanding Graduate of Shanghai(上海市优秀毕业生).
+- *2024.12* Awarded the 2023-2024 National Scholarship for Undergraduate Students(本科生国家奖学金，2023-2024学年).
 - *2024.11.03* National Silver Medal in the 2024 Chinese Collegiate Programming Contest(国家级银奖，2024年中国大学生程序设计竞赛).
 - *2024.05* National First Prize in the 2024 China Robot Competition and Robocup China Open(国家级一等奖，2024中国机器人大赛暨RoboCup机器人世界杯中国赛).
 - *2023.12* First-class Tongji University Outstanding Student Scholarship (Huawei Scholarship)(一等奖学金(华为奖学金)，2022-2023年同济大学综合优秀学生).
