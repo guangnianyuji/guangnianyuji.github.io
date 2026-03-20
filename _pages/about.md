@@ -20,10 +20,10 @@ redirect_from:
 I am Yifei Sun, an undergraduate student from the College of Computer Science and Technology, Software Engineering at Tongji University, class of 2021(同济大学，计算机科学与技术学院，软件工程专业，2021级本科生). 
 
 
-I will pursue a master's degree in the Key Software Program at the School of Software and Microelectronics, Peking University, starting in 2025(北京大学，软件与微电子学院，关键软件方向，2025级硕士生). 
+Now, I pursue a master's degree in the Key Software Program at the School of Software and Microelectronics, Peking University, starting in 2025(北京大学，软件与微电子学院，关键软件方向，2025级硕士生). 
 
 
-From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Huazhe Xu</a> at the <a href="https://sqz.ac.cn/" target="_blank">Shanghai Qi Zhi Institute</a>. Since September 2024, I have been working as a computer vision algorithm intern at <a href="https://www.xiaohongshu.com/protocols/about" target="_blank">Xiaohongshu</a>.
+From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Huazhe Xu</a> at the <a href="https://sqz.ac.cn/" target="_blank">Shanghai Qi Zhi Institute</a>. From Oct. 2024 to Apr. 2025, I  worked as a computer vision algorithm intern at <a href="https://www.xiaohongshu.com/protocols/about" target="_blank">Xiaohongshu</a>. From Nov. 2025 to Mar. 2026, I worked as a research intern at <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" target="_blank">DKI, Microsoft Software Technology Center Asia. </a>
 
 
 
@@ -82,6 +82,7 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.11 - 2026.03*, Research Intern at [DKI, Microsoft Software Technology Center Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Beijing, China.
 - *2024.09 - 2025.04*, [Xiaohongshu](https://www.xiaohongshu.com/protocols/about),Shanghai, China.
 - *2023.08 - 2024.08*, [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), Shanghai, China.
 
