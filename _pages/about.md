@@ -23,17 +23,31 @@ I am Yifei Sun, an undergraduate student from the College of Computer Science an
 Now, I pursue a master's degree in the Key Software Program at the School of Software and Microelectronics, Peking University, starting in 2025(北京大学，软件与微电子学院，关键软件方向，2025级硕士生). 
 
 
-From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Huazhe Xu</a> at the <a href="https://sqz.ac.cn/" target="_blank">Shanghai Qi Zhi Institute</a>. From Oct. 2024 to Apr. 2025, I  worked as a computer vision algorithm intern at <a href="https://www.xiaohongshu.com/protocols/about" target="_blank">Xiaohongshu</a>. From Nov. 2025 to Mar. 2026, I worked as a research intern at <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" target="_blank">DKI, Microsoft Software Technology Center Asia. </a>
+From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Huazhe Xu</a> at the <a href="https://sqz.ac.cn/" target="_blank">Shanghai Qi Zhi Institute</a>. From Oct. 2024 to Apr. 2025, I worked as a computer vision algorithm intern at <a href="https://www.xiaohongshu.com/protocols/about" target="_blank">Xiaohongshu</a>. From Nov. 2025 to Mar. 2026, I worked as a research intern at <a href="https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/" target="_blank">DKI, Microsoft Software Technology Center Asia</a>. Currently, I am a research intern at the ERNIE Foundation Model Team, Baidu.
 
 
 
 # 🔥 News
+- *2025.04*: &nbsp;One paper on LLM-based recommendation <a href="https://duet-rec.github.io/" target="_blank">DUET</a> was accepted to ACL 2025 Findings.
 - *2025.01.23*: &nbsp;One paper on robotic representation from large-scale robot data <a href="https://robots-pretrain-robots.github.io/" target="_blank">MCR</a> was accepted to ICLR 2025.
 - *2024.10*: &nbsp;🎉🎉 I am still alive!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Publications
 \* denotes equal contributions; † indicates equal advising.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DUET: Joint Exploration of User–Item Profiles in Recommendation](https://arxiv.org/abs/2604.13801)
+
+Yue Chen\*, **Yifei Sun**\*, Lu Wang<sup>†</sup>, Fangkai Yang, Pu Zhao, Minjie Hong, Yifei Dong, Minghua He, Nan Hu, Jianjin Zhang, Zhiwei Dai, Yuefeng Zhan, Weihao Han, Hao Sun, Qingwei Lin, Weiwei Deng, Feng Sun, Qi Zhang, Saravan Rajmohan, Dongmei Zhang
+
+[**Website**](https://duet-rec.github.io/)/[**Arxiv**](https://arxiv.org/abs/2604.13801)/[**Code**](https://github.com/duet-review/duet_code)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/mcr_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +96,8 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.11 - 2026.03*, Research Intern at [DKI, Microsoft Software Technology Center Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Beijing, China.
+- *2026.04 - Present*, Research Intern at the ERNIE Foundation Model Team, Baidu, Beijing, China.
+- *2025.11 - 2026.04*, Research Intern at [DKI, Microsoft Software Technology Center Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/), Beijing, China.
 - *2024.09 - 2025.04*, [Xiaohongshu](https://www.xiaohongshu.com/protocols/about),Shanghai, China.
 - *2023.08 - 2024.08*, [Shanghai Qi Zhi Institute](https://sqz.ac.cn/), Shanghai, China.
 
