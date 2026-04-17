@@ -28,7 +28,7 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 
 
 # 🔥 News
-- *2025.04*: &nbsp;One paper on LLM-based recommendation <a href="https://duet-rec.github.io/" target="_blank">DUET</a> was accepted to ACL 2025 Findings.
+- *2026.04*: &nbsp;One paper on LLM-based recommendation <a href="https://duet-rec.github.io/" target="_blank">DUET</a> was accepted to ACL 2026 Findings.
 - *2025.01.23*: &nbsp;One paper on robotic representation from large-scale robot data <a href="https://robots-pretrain-robots.github.io/" target="_blank">MCR</a> was accepted to ICLR 2025.
 - *2024.10*: &nbsp;🎉🎉 I am still alive!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -36,7 +36,7 @@ From 2023 to 2024, I worked with <a href="http://hxu.rocks/" target="_blank">Hua
 # 📝 Publications
 \* denotes equal contributions; † indicates equal advising.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025 Findings</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DUET: Joint Exploration of User–Item Profiles in Recommendation](https://arxiv.org/abs/2604.13801)
